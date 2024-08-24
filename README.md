@@ -3,6 +3,7 @@ This is @Aceereyes and the following are some of my information.
 
 👀 Areas of Interest
 
+
 1.) Project Management
 
 2.) Software Engineering
@@ -12,8 +13,10 @@ This is @Aceereyes and the following are some of my information.
 4.) Entrepreneurship and Cyberpreneurship
 
 5.) Artificial Intelligence and Machine Learning
+
   
 🌱 Currently Learning
+
 
 1.) Other Programming Languages
 
@@ -21,7 +24,9 @@ This is @Aceereyes and the following are some of my information.
 
 3.) Cybersecurity
 
+
 💼 Seeking Collaboration On:
+
 
 1.) Open-source projects
 
@@ -31,6 +36,7 @@ This is @Aceereyes and the following are some of my information.
 
 
 ⚡ Fun Fact:
+
 
 Project Head of the following:
 
